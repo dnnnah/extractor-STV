@@ -9,15 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "14.2.3",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "zustand": "^4.5.2",
-    "pdfjs-dist": "^4.4.168",
-    "xlsx": "^0.18.5",
-    "lucide-react": "^0.378.0",
     "clsx": "^2.1.1",
-    "tailwind-merge": "^2.3.0"
+    "lucide-react": "^0.378.0",
+    "next": "^16.2.6",
+    "pdfjs-dist": "^4.4.168",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "tailwind-merge": "^2.3.0",
+    "xlsx": "^0.18.5",
+    "zustand": "^4.5.2"
   },
   "devDependencies": {
     "@types/node": "^20.12.12",
